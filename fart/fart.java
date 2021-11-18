@@ -13,7 +13,7 @@ class Scratch
 		String response = "pog"; 
 		clip.start();
 		scanner.next();
-}
+	}
 }
 
 

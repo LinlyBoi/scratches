@@ -30,6 +30,7 @@ class Scratch
 
 	}
 		clip.start();
+		scanner.close();
 }
 }
 
